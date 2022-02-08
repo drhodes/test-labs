@@ -2,7 +2,7 @@
 Labs:
   
   # A Simple lab for testing out the grader
-  test_autograde1.ipynb:    
+  TestLab1.ipynb:    
     q1: ~
     q2: ~
     
