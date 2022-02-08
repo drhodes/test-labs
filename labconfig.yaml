@@ -1,0 +1,16 @@
+
+Labs:
+  
+  # A Simple lab for testing out the grader
+  test_autograde1.ipynb:    
+    q1: ~
+    q2: ~
+    
+    # q1 and q2 are two variables that the grader is expecting to
+    # exist in the notebook kernel.
+    # note: the tilde (~) character translates to None in python.
+  
+  # Your lab goes here
+  NextLab.ipynb:
+    your_var1: ~
+    your_var2: ~
