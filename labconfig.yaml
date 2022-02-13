@@ -1,16 +1,36 @@
 
+# this is an example 
+# do not commit this file to a repository!
+# everything here is sensitive.
+
 Labs:
   
   # A Simple lab for testing out the grader
   TestLab1.ipynb:    
-    q1: ~
-    q2: ~
+    q1: 2
+    q2: 4
     
     # q1 and q2 are two variables that the grader is expecting to
     # exist in the notebook kernel.
     # note: the tilde (~) character translates to None in python.
-  
-  # Your lab goes here
-  NextLab.ipynb:
-    your_var1: ~
-    your_var2: ~
+ 
+  # A Simple lab for testing out the grader
+  TestLab2.ipynb:    
+    q1: 2
+    q2: 4
+
+# need to do this yet?
+# wait.
+
+cluster-config:
+  consumer-key:
+  secret-key:
+    
+answer-server:
+  domain: www.example.com
+  port: 5002
+  password: super-password
+
+submit-server:
+  password: another-awesome passwd.
+    
